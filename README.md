@@ -2,6 +2,10 @@
 
 # Hibernate
 
+Info Logging
+
+logging.level.org.hibernate=INFO
+
 Enable Statistics
 
 spring.jpa.properties.hibernate.generate_statistics = true
