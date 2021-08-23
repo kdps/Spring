@@ -2,6 +2,6 @@
 
 >> Redirect http to https
 
-# authorizeRequests
+# authorizeRequests()
 
 >> Accept only with logged connection
