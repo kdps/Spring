@@ -5,9 +5,3 @@
 # authorizeRequests()
 
 >> Process with HttpServletRequest
-
-
-
- Accept only with logged connection
-
-
