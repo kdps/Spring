@@ -4,4 +4,10 @@
 
 # authorizeRequests()
 
->> Accept only with logged connection
+>> Process with HttpServletRequest
+
+
+
+ Accept only with logged connection
+
+
